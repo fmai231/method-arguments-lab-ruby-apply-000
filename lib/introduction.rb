@@ -4,4 +4,4 @@ def introduction_with_language(name, language)
   
 end
 
-introduction_with_language(luke, ruby)
+introduction_with_language(luke)
